@@ -238,7 +238,7 @@ function DiscordLib:Window(text)
 	UserName.Size = UDim2.new(0, 98, 0, 17)
 	UserName.Font = Enum.Font.GothamSemibold
 	UserName.TextColor3 = Color3.fromRGB(255, 255, 255)
-	UserName.TextSize = 900
+	UserName.TextSize = 13.000
 	UserName.TextXAlignment = Enum.TextXAlignment.Left
 	UserName.ClipsDescendants = true
 
